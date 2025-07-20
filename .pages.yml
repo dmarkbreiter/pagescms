@@ -4,3 +4,9 @@ content:
     path: pages
     type: collection
     filename: "{primary}.mdx"
+    fields:
+      - name: body
+        label: Body
+        type: code
+        options:
+        language: html
