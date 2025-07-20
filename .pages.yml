@@ -3,3 +3,4 @@ content:
     label: Pages
     path: pages
     type: collection
+    filename: "{primary}.mdx"
