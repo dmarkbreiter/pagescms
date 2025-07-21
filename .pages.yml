@@ -19,6 +19,9 @@ content:
           - name: body
             label: Body
             type: rich-text
+          - name: hero
+            component: hero
+          
 components:
   hero: # 'hero' is the component name/key
     label: Hero Section
